@@ -1,0 +1,21 @@
+.note{
+    color: black;
+    font-size: 15px;
+}
+.div{
+    font-size: 30px;
+    width: 100%;
+    margin-top: 0px;
+    box-shadow: 5px 5px 5px blue;
+}
+.copyrightfooter{
+    color:rgb(0, 255, 179);
+    bottom: 0px;
+    width:100%;
+    position: fixed;background-color: blue;
+}
+canvas{
+border-radius: 20px;
+border:5px solid coral;
+
+}
